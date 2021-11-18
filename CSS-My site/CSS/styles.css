@@ -85,6 +85,14 @@ p{
   color: #C8E3D4;
 }
 
+.spaceship{
+  width: 80px;
+  height: 80px;
+  position: fixed;
+  left: 70px;
+  top:50px;
+}
+
 .Earthimg{
   width: 100px;
   height: 100px;
